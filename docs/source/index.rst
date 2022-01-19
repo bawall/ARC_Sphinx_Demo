@@ -17,6 +17,10 @@ Welcome to ARC Sphinx Demo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   main
+   features
+   classes
+
 
 
 Indices and tables
