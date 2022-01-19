@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="881e5e3f-205d-4c02-80be-63811cccfe0c" name="Changes" comment="" />
+    <list default="true" id="881e5e3f-205d-4c02-80be-63811cccfe0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/source/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_sphinx_build.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run_sphinx_build.sh" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
