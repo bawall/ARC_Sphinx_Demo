@@ -19,6 +19,7 @@ Welcome to ARC Sphinx Demo's documentation!
 
    main
    features
+   api
 
 
 
